@@ -1,2 +1,5 @@
+This is a change
+This is second change
+
 This is a trial for new local init
 
