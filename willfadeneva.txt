@@ -1,0 +1,2 @@
+This is a trial for new local init
+
