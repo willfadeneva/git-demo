@@ -1,7 +1,3 @@
-Here’s a **point-based course for Git and GitHub**, ideal for beginners to intermediate learners. It progresses in a logical sequence, with key concepts, hands-on tasks, and commands to practice.
-
----
-
 ## 🔧 **Git & GitHub Course Outline (Point-Based)**
 
 ### ✅ **1. Introduction to Git and GitHub**
